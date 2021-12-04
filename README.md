@@ -27,8 +27,8 @@ More information at [unelmacoin.io](http://www.unelmacoin.io)
 
 ### PoS/PoW Block Details
 <table>
-<tr><td>Proof Of Work Phase</td><td>1-42200 Blocks.</td></tr>
-<tr><td>Proof of Stake Phase</td><td>42201-infinite</td></tr>
+<tr><td>Proof Of Work Phase</td><td>1-512000 Blocks.</td></tr>
+<tr><td>Proof of Stake Phase</td><td>512000-infinite</td></tr>
 </table>
 
 ### Staking Methods
