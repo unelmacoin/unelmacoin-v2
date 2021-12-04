@@ -23,7 +23,7 @@ More information at [unelmacoin.io](http://www.unelmacoin.io)
 <tr><td>unelmacoin wallet address</td><td>starts with the capital letter "U"</td></tr>
 </table>
 
-*First 42200 Blocks PoW. 42201 - Infinite Blocks PoS only.
+*First 512000 Blocks PoW. 512000 - Infinite Blocks PoS only.
 
 ### PoS/PoW Block Details
 <table>
