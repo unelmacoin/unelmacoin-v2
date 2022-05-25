@@ -27,7 +27,7 @@ More information at [unelmacoin.io](http://www.unelmacoin.io)
 
 ### PoS/PoW Block Details
 <table>
-<tr><td>Proof Of Work Phase</td><td>1-512000 Blocks.</td></tr>
+<tr><td>Proof Of Work Phase</td><td>1-512000 Blocks</td></tr>
 <tr><td>Proof of Stake Phase</td><td>512000-infinite</td></tr>
 </table>
 
@@ -39,7 +39,7 @@ More information at [unelmacoin.io](http://www.unelmacoin.io)
 
 ### Staking Reward Details
 <table>
-<tr><td>unelmacoin Produced</td><td>25 unelmacoin Per Block</td></tr>
+<tr><td>unelmacoin Produced</td><td>25 UnelmaCoin (UNC) Per Block</td></tr>
 <tr><td>Amount Designated for Rewards</td><td>100% of unelmacoin produced goes to Staking Rewards</td></tr>
 <tr><td>Rewards Algorithm</td><td>Teeter Totter Based Targeting System</td></tr>
 <tr><td>Amount of Rewards Per Block</td><td>2 Rewards, 1 for Masternodes, 1 for Wallet Staking</td></tr>
